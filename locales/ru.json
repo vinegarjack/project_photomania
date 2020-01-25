@@ -1,0 +1,9 @@
+{
+  "navigation":{
+    "brand": "Фотомания",
+    "login": "Авторизация",
+    "registration": "Регистрация",
+    "logout": "Выход",
+    "profile": "Профиль"
+  }
+}

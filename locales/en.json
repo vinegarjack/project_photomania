@@ -1,0 +1,9 @@
+{
+  "navigation":{
+    "brand": "Photomania",
+    "login": "Login",
+    "registration": "Registration",
+    "logout": "Logout",
+    "profile": "Profile"
+  }
+}

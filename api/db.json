@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "email": "vinegarjack@mail.ru",
+      "password": "$2a$10$sF.Px2IUkNPJhpcSMfLzw.RtXCBCuXLK0VsMNafN7fn6LQXVE60Ea",
+      "photo": "1",
+      "name": "monas",
+      "surname": "ffff",
+      "aboutMe": "asd",
+      "id": 3
+    },
+    {
+      "email": "123@com",
+      "password": "$2a$10$CHD3opdLb6kXtZ/LOiszee0nmJK0aaZ.QpDqRv0MylB2WrxFmYYsm",
+      "photo": "",
+      "name": "monas",
+      "surname": "1",
+      "aboutMe": "",
+      "id": 4
+    },
+    {
+      "email": "zxc@com",
+      "password": "$2a$10$lv.xXzEm1Dq7zBc2U5czDOxawqCUe8QFw69kZMictzkHk4oKdDmu.",
+      "photo": "1",
+      "name": "monas",
+      "surname": "ffff",
+      "aboutMe": "",
+      "id": 5
+    }
+  ],
+  "photo": [
+    {
+      "id": 1,
+      "userId": 1,
+      "comments": [
+        {
+          "comment": "great",
+          "userCommentId": 2
+        }
+      ],
+      "image": "https://m.liveaquaria.com/images/categories/large/lg_71133_Firefish.jpg",
+      "userRating": [
+        {
+          "rating": 1,
+          "userRatedId": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "comments": [
+        {
+          "comment": "i like it",
+          "userCommentId": 2
+        }
+      ],
+      "image": "https://cdn11.bigcommerce.com/s-css581wc/images/stencil/2048x2048/products/269/515/Helfrichs_Firefish_Pet_Fish_for_Sale_www.petfishforsale.com__87063.1459653266.png?c=2",
+      "userRating": [
+        {
+          "rating": 1,
+          "userRatedId": 2
+        }
+      ]
+    }
+  ]
+}
